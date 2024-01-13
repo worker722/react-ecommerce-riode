@@ -1,4 +1,4 @@
-# riode-react-nextjs-vercel
+# react-nextjs-riode-theme
 
 ![image_1](https://github.com/devsolution0112/react-ecommerce-riode/assets/89163655/fed87466-76d4-4754-b1eb-99cc99974b81)
 ![image_2](https://github.com/devsolution0112/react-ecommerce-riode/assets/89163655/18c21582-fa99-41b8-b075-c43f77adbdd4)
