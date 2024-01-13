@@ -1,6 +1,8 @@
 # riode-react-nextjs-vercel
 
-![Screenshot_1](https://github.com/devsolution0112/react-ecommerce-riode/assets/89163655/bcb505db-f3aa-4e07-b582-3facee036060)
+![image_1](https://github.com/devsolution0112/react-ecommerce-riode/assets/89163655/fed87466-76d4-4754-b1eb-99cc99974b81)
+![image_2](https://github.com/devsolution0112/react-ecommerce-riode/assets/89163655/18c21582-fa99-41b8-b075-c43f77adbdd4)
+![image_3](https://github.com/devsolution0112/react-ecommerce-riode/assets/89163655/da342278-6123-4b79-9356-1251a44bf99e)
 
 
 ## Getting Started
